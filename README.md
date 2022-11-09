@@ -28,11 +28,13 @@ Users should be able to:
 
 Mobile Version
 
-![](./images/screenshot2.png)
+![](./assets/images/screenshot1.png)
+
+![](./assets/images/screenshot3.png)
 
 Desktop Version
 
-![](./images/screenshot1.png)
+![](./assets/images/screenshot2.png)
 
 ### Links
 
